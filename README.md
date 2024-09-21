@@ -95,6 +95,9 @@ This project involved answering the following key questions using SQL queries in
 
 15. **Find the top 3 most expensive audiobooks of each language.**
 
+16. **What is the distribution of audiobook durations.**<br>
+  **(e.g., how many fall into categories like less than 0-2 hours, 2-4 hours, 4-6 hours,6+ hours)?**
+
 ## Tools Used
 
 - **Python**: Data cleaning and manipulation using pandas.
