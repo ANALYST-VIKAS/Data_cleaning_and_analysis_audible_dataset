@@ -61,7 +61,7 @@ The main objectives of this project were to:
 
 The cleaned data was then exported as `cleaned_audiobook_data.csv` and imported into MySQL for analysis.
 
-## 15 Key Questions Answered
+## 16 Key Questions Answered
 
 This project involved answering the following key questions using SQL queries in MySQL:
 
